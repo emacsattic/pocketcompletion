@@ -1,5 +1,7 @@
 ;;; pocketcompletion.el --- tree style completion intended for tablets
 
+;; License: GPL-3+
+
 ;;; Commentary:
 ;; 
 ;; pocketcompletion aims to provide a style of completion that is
